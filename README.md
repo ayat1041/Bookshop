@@ -1,2 +1,1 @@
-# Bookshop
-ID 191-15-1041
+Basic OOP Concepts implemented using java.
